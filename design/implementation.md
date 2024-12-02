@@ -4,61 +4,66 @@
 
 ### Layout Components
 
-- Main container with responsive design
-- Header with application title
-- Footer with 'Made on ZAPT' badge
+- Navigation bar
+- Page containers
+- Grid systems
+- Section dividers
 
 ### Content Components
 
-- Vehicle Information Form
-- Repair Selection Checklist
-- Estimate Result Display
+- Forms
+- Lists
+- Modals
 
 ### Interactive Components
 
-- Input fields
+- Buttons
+- Dropdowns
 - Checkboxes
-- Submit button
+- Quantity adjusters
 
 ## Technical Specifications
 
 ### Spacing System
 
 - Base unit: 4px
-- Use multiples of base unit for padding and margins
+- Spacing scale: Multiples of 4px
+- Margin/padding patterns: Consistent across components
 
 ### Color System
 
-- Primary color: Blue (#1D4ED8) for actionable elements
-- Neutral grays for backgrounds and borders
+- Primary palette: Blues and grays
+- Secondary palette: Accents in green and red
+- Neutral grays
+- Feedback colors for errors and confirmations
 
 ### Typography Scale
 
 - Font family: 'Inter', sans-serif
 - Size scale: 14px, 16px, 18px, 24px
-- Weight scale: Regular (400), Semi-bold (600), Bold (700)
+- Weight scale: Regular, Medium, Bold
+- Line heights: 1.5
 
 ### Interactive States
 
-- Hover: Slight darkening of button backgrounds
-- Focus: Outline on input fields
-- Disabled: Lower opacity for buttons
+- Hover
+- Focus
+- Active
+- Disabled
 
 ### Responsive Approach
 
-- Breakpoints: Tailwind default breakpoints
 - Mobile-first design
-- Components scale up for larger screens
+- Breakpoints at 640px, 768px, 1024px
+- Fluid layouts that adapt to screen size
 
 ## Mobile-First Implementation
 
-1. Design and test all components on mobile screens first.
-2. Ensure touch-friendly sizes and spacing.
-3. Optimize performance for mobile devices.
+1. Design components to function seamlessly on mobile devices.
+2. Ensure touch-friendly controls with adequate spacing.
+3. Optimize images and assets for mobile load times.
+4. Test all features on various mobile devices.
 
 ## Usage Instructions
 
-1. Create the '/design' folder in your project root.
-2. Copy the content of each markdown file into its respective file.
-3. Update the links in README.md to ensure they point to the correct files.
-4. Review all content and customize as needed for your specific project.
+This design implementation serves as a guideline for developers to ensure consistency and adherence to design principles throughout the app.

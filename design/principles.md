@@ -4,34 +4,40 @@
 
 ### Clean White Space
 
-- Consistent padding around elements
+- Consistent padding
 - Clear content sections
-- Ample breathing room between elements
+- Breathing room between elements
 
 ### Structured Layout
 
 - Clear grid system
-- Aligned form fields
+- Aligned elements
 - Predictable patterns
 
 ## Visual Hierarchy
 
+### Subtle Depth
+
+- Light shadows
+- Thin borders
+- Gentle elevation
+
 ### Clear Hierarchy
 
-- Important buttons stand out
-- Input labels and fields are clearly associated
-- Results are prominently displayed
+- Important info stands out
+- Secondary info recedes
+- Visual relationships clear
 
 ## User Experience
 
 ### Quiet Interface
 
 - Muted colors
-- Reserved use of bold colors for call-to-action buttons
-- Minimal distractions
+- Reserved bold colors
+- Meaningful color use
 
 ### Typography with Purpose
 
 - Limited font sizes
-- Meaningful weight differences
-- Legible fonts for readability
+- Meaningful weights
+- Clear reading hierarchy

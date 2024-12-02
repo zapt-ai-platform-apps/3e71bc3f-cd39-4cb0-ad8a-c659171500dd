@@ -1,12 +1,12 @@
 # Visual Theme
 
-Selected Theme: **Minimalist**
+## Selected Theme: Classic Light
 
-## Minimalist
+### Classic Light
 
-- Extensive whitespace
-- Limited color palette
-- Typography-focused
-- Best for: Luxury, high-end products
+- Clean white backgrounds
+- Subtle shadows
+- Clear contrast
+- Best for: Professional, enterprise, SaaS
 
-We selected the Minimalist theme to align with our core values of clarity and simplicity, ensuring users can focus on entering information and viewing results without unnecessary distractions.
+This theme aligns with our core values of clarity and efficiency, providing users with a straightforward interface for quick estimations.
